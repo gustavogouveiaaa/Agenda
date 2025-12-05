@@ -13,7 +13,7 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 - JWT (autenticação)
 
 ### Frontend
-- React: **XX.X.X**
+- React: 
 - Vite
 - Axios
 - Biblioteca de calendário (coloque qual usou)
