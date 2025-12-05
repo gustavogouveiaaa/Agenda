@@ -14,7 +14,6 @@
   }
 }
 
-/* Efeito de foco nos inputs */
 input:focus {
   border-color: #4caf50 !important;
   box-shadow: 0 0 8px #4caf5077;

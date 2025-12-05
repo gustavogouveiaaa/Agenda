@@ -1,5 +1,3 @@
-// src/services/activityService.js
-
 import api from "../api/api";
 
 export function getActivities() {
