@@ -1,0 +1,21 @@
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Efeito de foco nos inputs */
+input:focus {
+  border-color: #4caf50 !important;
+  box-shadow: 0 0 8px #4caf5077;
+}
