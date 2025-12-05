@@ -31,17 +31,17 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 
 # Backend
 
-cd agenda-backend
-cp .env.example .env
-npm install
-npm start
+cd agenda-backend;
+cp .env.example .env;
+npm install;
+npm start;
 
 #  Frontend
 
-cd agenda-frontend
-cp .env.example .env
-npm install
-npm run dev
+cd agenda-frontend;
+cp .env.example .env;
+npm install;
+npm run dev;
 
 
 ## 🛢️ Banco de Dados
