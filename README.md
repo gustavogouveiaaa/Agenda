@@ -38,9 +38,9 @@ npm install
 npm start
 
 
-#  Frontend
+### FRONTEND
 
-```bash
+````bash
 cd agenda-frontend
 cp .env.example .env
 npm install
