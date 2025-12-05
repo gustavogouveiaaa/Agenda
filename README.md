@@ -29,15 +29,15 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 
 ## Como rodar o projeto localmente
 
-## 1️⃣ Backend
-```bash
+# Backend
+
 cd agenda-backend
 cp .env.example .env
 npm install
 npm start
 
-### 1️⃣ Frontend
-```bash
+#  Frontend
+
 cd agenda-frontend
 cp .env.example .env
 npm install
