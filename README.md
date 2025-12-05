@@ -27,9 +27,9 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 - Exibição das atividades em calendário
 
 
-## ▶️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
-### 1️⃣ Backend
+## 1️⃣ Backend
 ```bash
 cd agenda-backend
 cp .env.example .env
