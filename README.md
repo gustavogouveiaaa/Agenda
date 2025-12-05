@@ -16,7 +16,7 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 - React: 
 - Vite
 - Axios
-- Biblioteca de calendário (coloque qual usou)
+- Biblioteca de calendário 
 
 ## 📌 Funcionalidades
 - Cadastro de usuário
