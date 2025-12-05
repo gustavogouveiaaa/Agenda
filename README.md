@@ -31,7 +31,7 @@ Cada usuário só pode visualizar e modificar suas próprias atividades.
 
 #  Backend
 
-
+```bash
 cd agenda-backend
 cp .env.example .env
 npm install
